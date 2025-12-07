@@ -4,6 +4,6 @@ In this project, we will perform some analytical tasks on a dataset that represe
 # Task assignments:
 # Task 1: Desai, Jia
 # Task 2: Lee, Justin
-Task 3: Padte, Yana
-Task 4: Vasilev, Arsenii
-Task 5: Wang, Zijun
+# Task 3: Padte, Yana
+# Task 4: Vasilev, Arsenii
+# Task 5: Wang, Zijun
