@@ -5,5 +5,8 @@ In this project, we will perform some analytical tasks on a dataset that represe
 # Task 1: Desai, Jia
 # Task 2: Lee, Justin
 # Task 3: Padte, Yana
+After completing the temporal analysis on the bird data, the following image was generated to show the breakdown of the number of observations of species on the 1k dataset from 03/15/2011 to 08/17/2011
+![Task 3 Results](pieChart.png)
+
 # Task 4: Vasilev, Arsenii
 # Task 5: Wang, Zijun
